@@ -1,0 +1,15 @@
+# 컴파일된 파이썬 바이너리 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경
+venv/
+.venv/
+env/
+ENV/
+
+# IDE 및 에디터 설정
+.vscode/
+.idea/
+.DS_Store
